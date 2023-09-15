@@ -1,0 +1,4 @@
+elimination/sample_submission.parquet.gzip
+elimination/data/*
+!elimination/data/.placeholder
+elimination/wandb/*
